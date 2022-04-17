@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "240925474933",
+    "project_id": "manaakiwai",
+    "storage_bucket": "manaakiwai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240925474933:android:09aca6faed9ada4178b83c",
+        "android_client_info": {
+          "package_name": "com.manaaa.manaakiwai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240925474933-6oe441n43nvur2sgbdjsu6jcvuckl9tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manaaa.manaakiwai",
+            "certificate_hash": "7ba57eeaccf7ec23e99a3c9ce20f2dda1d0e6c12"
+          }
+        },
+        {
+          "client_id": "240925474933-497vbpmp85evv8q4sak4j0ub4hai22oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9c03jdgFJ03U2zpJVakX1mxvcHdEZUwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240925474933-497vbpmp85evv8q4sak4j0ub4hai22oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
